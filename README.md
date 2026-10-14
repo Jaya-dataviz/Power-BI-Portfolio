@@ -9,7 +9,9 @@ The aim of employee attrition analysis is to understand why employees leave an o
 Tools Utilized:
 --------------------------------------------------------------------------------------------------
 Microsoft PowerBI
+
 Power Query
+
 DAX
 
 Key Metrics:
@@ -27,13 +29,17 @@ Key Metrics:
 Insights & Findings
 ---------------------------------------------------------------------------------------------------
 “Employees with low work‑life balance scores had 2x higher attrition.”
+
 “Attrition was higher for those earning below 5K.”
 
 Business Impact:
 ---------------------------------------------------------------------------------------------------
 How HR teams could use this dashboard:
+
   Identify high‑risk groups.
+  
   Design retention strategies.
+  
   Reduce recruitment costs.
 
 
