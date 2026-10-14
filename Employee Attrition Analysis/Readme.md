@@ -11,7 +11,9 @@ The aim of employee attrition analysis is to understand why employees leave an o
 Tools Utilized:
 
 Microsoft PowerBI
+
 Power Query
+
 DAX
 
 -----------------------------------------------------------------------------------------------------------------------
@@ -28,7 +30,7 @@ Attrition by Salary Slab
 Attrition by Work‑Life Balance Score
 
 ---------------------------------------------------------------------------------------------------------------------
-Insights & Findings
+Insights & Findings:
 
 “Employees with low work‑life balance scores had 2x higher attrition.”
 
