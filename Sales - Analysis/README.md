@@ -1,6 +1,7 @@
 Sales and Profit Analysis Dashboard
-----------------------------------------------------------------------------------------------------
+
 This Power BI dashboard analyzes sales performance, profit margins, and discount impact across regions and segments.
+
 -----------------------------------------------------------------------------------------------------
 Aim
 
