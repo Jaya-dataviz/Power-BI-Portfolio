@@ -4,9 +4,7 @@ This power BI dashboard analyzes employee attrition across tenure, compensation 
 ---------------------------------------------------------------------------------------------------------------------
 Aim:
 
-The aim of employee attrition analysis is to understand why employees leave an organization and how those departures affect business performance. 
-
-It helps HR and management make data‑driven decisions to improve retention and workforce stability.
+The aim of employee attrition analysis is to understand why employees leave an organization and how those departures affect business performance.It helps HR and management make data‑driven decisions to improve retention and workforce stability.
 ----------------------------------------------------------------------------------------------------------------------
 Tools Utilized:
 
